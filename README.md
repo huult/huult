@@ -58,7 +58,7 @@ I combine strong technical expertise with a passion for meaningful projects that
 - 💼 [LinkedIn](https://www.linkedin.com/in/thanh-h%E1%BB%AFu-l%C3%AA-070098180/)  
 - 📧 [Email](mailto:contact@huutech.com)  
 - 🌐 [Website](https://huutech.com)  
-- 🧑‍💻 [GitHub](https://github.com/huutech)  
+- 🧑‍💻 [GitHub](https://github.com/huult)  
 - 📝 [DEV.to](https://dev.to/huutech) *(for writing tech blogs – optional)*
 - 🧠 [Stack Overflow](https://stackoverflow.com/users/6316626) *(for answering tech Q&A – if active)*
 - 🐦 [Twitter / X](https://x.com/ThanhHuL3) *(for sharing dev thoughts, tech news – optional)*
